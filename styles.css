@@ -3,12 +3,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
+    background-color: #fff0f5; /* Light pink background */
     color: #333;
 }
 
 nav {
-    background-color: #0044cc;
+    background-color: #ff69b4; /* Bright pink navigation bar */
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -27,7 +27,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #fff; /* White text for navigation links */
     text-decoration: none;
     font-weight: bold;
 }
@@ -40,13 +40,13 @@ main {
     padding: 2rem;
     max-width: 800px;
     margin: auto;
-    background-color: #fff;
+    background-color: #ffffff; /* White background for main content */
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
-    color: #0044cc;
+    color: #ff69b4; /* Bright pink for main headings */
     text-align: center;
     margin-bottom: 1rem;
 }
@@ -54,7 +54,7 @@ h1 {
 h2 {
     color: #333;
     margin-top: 1.5rem;
-    border-bottom: 2px solid #0044cc;
+    border-bottom: 2px solid #ff69b4; /* Bright pink underline */
     padding-bottom: 0.5rem;
 }
 
@@ -65,7 +65,7 @@ ul {
 }
 
 a {
-    color: #0044cc;
+    color: #ff69b4; /* Bright pink for links */
     text-decoration: none;
 }
 
